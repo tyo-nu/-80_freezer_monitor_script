@@ -1,0 +1,51 @@
+01-31-2019 14:03	01-31-2019 14:03
+01-31-2019 14:03	01-31-2019 14:03
+01-31-2019 17:08	10.000001192092896sec
+01-31-2019 17:09	10.00000786781311sec
+02-04-2019 12:55	610.9023759365082 sec
+02-06-2019 14:18	Program started02-06-2019 14:18	Initialization email sent.  Monitoring is beginning.
+02-06-2019 14:19	Program started
+02-06-2019 14:19	Initialization email sent.  Monitoring is beginning.
+02-06-2019 14:24	Program started
+02-06-2019 14:24	Initialization email sent.  Monitoring is beginning.
+02-06-2019 14:24	Alarm started
+02-06-2019 14:24	Alarm exceeded alarm time, send email
+02-06-2019 14:24	Email sent. waiting 10 minutes
+02-06-2019 14:34	Finished waiting 10 min
+02-06-2019 14:34	Alarm exceeded alarm time, send email
+02-06-2019 14:34	Email sent. waiting 10 minutes
+02-06-2019 14:40	
+ 
+Program started
+02-06-2019 14:40	Initialization email sent.  Monitoring is beginning.
+02-06-2019 14:40	Alarm started
+02-06-2019 14:40	Alarm exceeded alarm time, send email
+02-06-2019 14:40	Email sent. waiting...
+02-06-2019 14:40	Finished waiting
+02-06-2019 14:40	Alarm exceeded alarm time, send email
+02-06-2019 14:40	Email sent. waiting...
+02-06-2019 14:41	Finished waiting
+02-06-2019 14:41	Alarm is no longer active. Alarm was active for71.65428423881531 sec
+02-06-2019 14:42	Alarm started
+02-06-2019 14:42	Alarm is no longer active. Alarm was active for0.001352071762084961 sec
+02-06-2019 14:42	Alarm started
+02-06-2019 15:04	
+ 
+Program started
+02-06-2019 15:04	Initialization email sent.  Monitoring is beginning.
+02-06-2019 15:04	Alarm started
+02-06-2019 15:05	Alarm exceeded alarm time, send email
+02-06-2019 15:05	Email sent. waiting...
+02-07-2019 10:19	
+ 
+Program started
+02-07-2019 10:19	Initialization email sent.  Monitoring is beginning.
+02-12-2019 10:02	Alarm started
+02-12-2019 10:02	Alarm exceeded alarm time, send email
+02-12-2019 10:02	Email sent. waiting...
+02-12-2019 10:03	Finished waiting
+02-12-2019 10:03	Alarm is no longer active. Alarm was active for41.407607316970825 sec
+02-12-2019 10:12	
+ 
+Program started
+02-12-2019 10:12	Initialization email sent.  Monitoring is beginning.
